@@ -1,0 +1,25 @@
+#sidebar {
+padding: 1em;
+width:20%;
+float: right;
+}
+
+.groovytitle {
+    text-align: left;
+    font-family: 'Josefin Slab', serif;
+    font-weight: bold;
+    font-size: 100px;
+}
+
+.groovyhead {
+    font-family: 'Josefin Slab', serif;
+    font-weight: bold;
+    font-size: 250%;
+}
+
+.groovytext {
+    font-family: 'Josefin Slab', serif;
+    font-weight: bold;
+    font-size: 120%;
+}
+
